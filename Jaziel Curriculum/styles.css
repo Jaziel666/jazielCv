@@ -1,0 +1,155 @@
+body{
+     background-color: pink
+     ;
+}
+header{
+    align-items: center;
+}
+h1 ,.Contacto{
+    color: darkgoldenrod;
+    
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+.Contacto{
+    text-align: center;
+}
+
+.pq{
+    color:darkgoldenrod;
+    margin-top: 200px;
+    text-align: center;
+    display: block;
+}
+.whats{
+    color: darkolivegreen;
+    text-decoration: none;
+    display: block;
+    font-size: 20px;
+} 
+.face{
+    color: cadetblue;
+    text-decoration: none;
+    display: block;
+    font-size: 20px;
+
+
+}
+.link{
+    color: cornflowerblue;
+    display: block; 
+    text-decoration: none;
+    font-size: 20px;
+
+}
+.img{
+    
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 250px;
+    width: 250px;
+     border-radius: 100%;
+}
+li{
+    display: inline-flex;
+    margin-right: 20px;
+    margin-left: 50px;
+    align-items: center;
+}
+.ul{
+    
+    text-align: center;
+}
+.caja{
+    width: 940px;
+    position: relative;
+    margin: 0 auto ;
+}
+footer{
+    text-align: center;
+    padding: 10px 0;
+}
+.Copiright{
+    color: goldenrod;
+}
+.insta{
+    color: darkorchid;
+    text-decoration: none;
+    font-size: 20px;
+}
+p{
+    text-align: center;
+    color: darkgoldenrod;
+    margin-top: 50px;
+    text-shadow: 100rem;
+}
+main{ min-height: 100vh; /* Asegura que el contenido ocupe al menos el 100% de la altura de la ventana */
+    padding: 20px;
+    box-sizing: border-box;}
+.certificados{
+    color: darkcyan;
+    text-align: center;
+    margin-top: 100px;
+}
+.cert{
+   
+    font-size: 24px;
+  color: darkcyan;
+  text-align: center;
+  display: block;
+  margin-top: 50px;
+}
+.hab{
+    text-align: center;
+    margin-top: 125px;
+    color: darkslateblue;
+}
+.habi{
+    text-align: center;
+    color: darkslateblue;
+    margin-right: 50px;
+}
+.proyect{
+    text-align: center;
+    color: darkseagreen;
+    display: block;
+    
+    
+}
+.proyecto{
+    text-align: center;
+    color: darkseagreen;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.bar{
+    display: block;
+    margin: 0 auto;
+}
+.aluraplay{
+    text-align: center;
+    display: block;
+    margin-top: 50px;
+    color: chocolate;
+}
+.alu{
+    height: 200px;
+    width: 300px;
+    margin: 0 auto;
+    display: block;
+    
+}
+.midi{
+    text-align: center;
+    display: block;
+    margin-top: 50px;
+    color: honeydew;
+}
+.mid{
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+}
